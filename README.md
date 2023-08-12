@@ -1,1 +1,2 @@
-# Machine-Learning-project
+# mini_project
+Diabetics prediction using ML 
